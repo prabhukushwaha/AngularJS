@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gi",
+				"githubSearch"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"res",
+				"resultList"
+			],
+			[
+				"o",
+				"owner"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"li",
+				"listItems"
+			],
+			[
+				"r",
+				"resultList"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"p",
+				"phoneNumber"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"sh",
+				"showItThen"
+			],
+			[
+				"s",
+				"showMsg"
+			],
+			[
+				"tr",
+				"trueFalse"
+			],
+			[
+				"resul",
+				"resultsDiv"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"b",
+				"boardered-image"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"boa",
+				"border-radius\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"Search",
+				"SearchPhrases"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"Sea",
+				"SearchPharases"
+			],
+			[
+				"sea",
+				"SearchPharases"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"pra",
+				"prabhukivaani"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				"All Syntaxes"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" git",
+				"git: remote add"
+			],
+			[
+				"git",
+				"git: checkout"
+			],
+			[
+				"br",
+				"git: branch"
+			],
+			[
+				"GIT",
+				"git: clone"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/i074917/Desktop/Desktop/prabhukivaani/AngularJS/index.html",
+		"/Users/i074917/Desktop/Desktop/prabhukivaani/CSS/site.css",
+		"/Users/i074917/Desktop/Desktop/prabhukivaani/js/index.js",
+		"/Users/i074917/Desktop/Desktop/prabhukivaani/index.html",
+		"/Users/i074917/Desktop/Desktop/prabhukivaani/jquery-3.3.1.min.js",
+		"/Users/i074917/Desktop/Desktop/prabhukivaani/css:site.css",
+		"/Users/i074917/Desktop/test.html",
+		"/Users/i074917/Library/Application Support/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/Users/i074917/Desktop/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "/Users/i074917/Desktop/Desktop/prabhukivaani/AngularJS",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "angular.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
